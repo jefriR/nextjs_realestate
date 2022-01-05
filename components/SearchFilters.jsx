@@ -1,6 +1,6 @@
 import {useEffect, useState} from 'react'
 import {useRouter} from 'next/router'
-import Image from 'next/Image'
+import Image from 'next/image'
 import {Flex, Box, Text, Icon, Select, Input, Spinner, Button} from '@chakra-ui/react'
 import {MdCabcel} from 'react-icons/md'
 
